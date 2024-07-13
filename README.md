@@ -6,6 +6,7 @@ Duration: July to August 2024
 
 # Project Overview: Simple Calculator Using Java
 
+![Screenshot (274)](https://github.com/user-attachments/assets/c20d0aab-01f0-4385-8fad-e963b47f808e)
 
 **Project Description:**
 The Simple Calculator project is a basic Java application that performs arithmetic operations such as addition, subtraction, multiplication, and division. This project is designed to provide a user-friendly interface where users can input numbers and select the desired operation to receive immediate results. The calculator handles basic error checking and provides feedback for invalid inputs or operations, such as division by zero.
